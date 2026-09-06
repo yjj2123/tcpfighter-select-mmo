@@ -1,0 +1,15 @@
+# 빌드 산출물
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.zip
+x64/
+Debug/
+Release/
+.vs/
+
+# 학원 제공물 (공개 불가)
+TCPFighter_Client/
+TCPFighter_Dummy/
+*.pdf
